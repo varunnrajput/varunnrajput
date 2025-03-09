@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm VARUN, a future software developer enthusiast and a part time student :p</div>  
+### <div align="center"> :p</div>  
   
 
 - 🔭 I’m currently working on improving my experience with a number of programming languages.  
